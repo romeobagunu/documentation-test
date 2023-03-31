@@ -4,7 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const organizationName = "romeo.bagunu"
+const organizationName = "romeobagunu"
 const projectName = "documentation-test"
 
 /** @type {import('@docusaurus/types').Config} */
